@@ -1,0 +1,31 @@
+body{
+    font-family: 'Rowdies', cursive;
+    background-color: chocolate;
+}
+
+.header_div{
+    background-color: coral;
+    color: darkblue;
+}
+
+p{
+    font-style: italic;
+    font-weight: bolder;
+    letter-spacing: 0.110cm;
+    font-size: 20px;
+}
+
+button{
+    font-style: italic;
+    margin-top: 15px;
+    font-weight: bolder;
+    width: 5cm;
+    letter-spacing: 0.110cm;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
